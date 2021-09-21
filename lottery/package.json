@@ -1,15 +1,18 @@
 {
-  "name": "block-chain",
+  "name": "lottery",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "mocha"
   },
-  "author": "ankur",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "ganache-cli": "^6.0.3",
+    "mocha": "^9.1.1",
     "solc": "^0.4.19"
   }
 }

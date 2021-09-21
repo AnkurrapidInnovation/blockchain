@@ -1,4 +1,4 @@
-pragma solidity ^0.8.7; // Pragma. The first line is a pragma directive
+pragma solidity ^0.4.17; // Pragma. The first line is a pragma directive
  //which tells that the source code is written for Solidity version 0.4. 0 or anything newer that does not break functionality up to, 
  //but not including, version 0.6.
 
