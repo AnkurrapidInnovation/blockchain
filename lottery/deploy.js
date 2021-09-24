@@ -3,8 +3,8 @@ const Web3 = require('web3');
 const { interface, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
-  'game saddle oyster laundry equal loop lunch allow cactus endless hover unfair',
-  'https://rinkeby.infura.io/orDImgKRzwNrVCDrAk5Q'
+  'jump crucial chunk nature orchard destroy waste group hidden helmet gather excess',
+  'https://rinkeby.infura.io/v3/1234e609dd3b484f9e62a4ce5f21b696'
 );
 const web3 = new Web3(provider);
 
